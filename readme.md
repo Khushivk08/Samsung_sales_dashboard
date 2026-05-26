@@ -81,3 +81,10 @@ This Power BI dashboard provides a comprehensive analysis of **Samsung Galaxy 5G
 
 Dashboard Screenshot:
 ![Dashboard Screenshot1](dashboard/dashboard_ss.png)
+
+"Certain materials, including logos and images, 
+are included in this educational data analytics 
+dashboard under the fair use provision of the Indian Copyright Act, 1957. 
+These materials are used strictly for educational, non-commercial purposes. 
+All copyrights and trademarks remain the property of their respective owners."
+
